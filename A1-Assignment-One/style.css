@@ -119,15 +119,15 @@ main{
     font-size: 85px;
     margin-top: 0px;
 }
-#pahla{
+#first{
     position:absolute;
     top: -16%;
 }
-#dusra{
+#first{
     position:absolute;
     top: 25%;
 }
-#dusra span{
+#second span{
     text-decoration: underline ;
     text-underline-offset: 40px;
     text-decoration-thickness: 5px;
