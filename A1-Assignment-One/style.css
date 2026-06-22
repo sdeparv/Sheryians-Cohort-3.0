@@ -8,7 +8,7 @@
 html,body{
     height: 100%;
     width: 100%;
-     background-image: url(assets/bg.jpeg);
+     background-image: url(assets/bg-img.jpg);
     background-size: cover;
     background-position: center bottom;
     background-size: 105%;     
@@ -100,11 +100,12 @@ main{
     font-size: 1.3rem;
     letter-spacing: 1px;
     word-spacing: 6px;
+    font-size: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .l2{
     width: 100%;
-    height: 30vh;
+    height: 24vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -115,6 +116,8 @@ main{
 }
 .l2 h1{
     font-weight: 500;
+    font-size: 85px;
+    margin-top: 0px;
 }
 #pahla{
     position:absolute;
@@ -133,8 +136,10 @@ main{
 .l3{
     width: 100%;
     height: 10vh;
-    font-size: 1.3vw;
+    font-size: 15px;
+    margin-top: -5px;
     color: rgb(78, 74, 74);
+    margin-left: 5px;
 }
 .l4{
     width: 100%;
@@ -157,22 +162,27 @@ main{
 }
 .green{
     background-color: #3f4732;
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
     border-radius: 50%;
-    
+    margin-top: 12px;
+    margin-left: 10px;
 }
 .cream{
     background-color: #dad5ac;
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
     border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 10px;
 }
 .maroon{
     background-color: #e05454;
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
     border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 10px;
 
 }
 .l5{
@@ -182,10 +192,12 @@ main{
 .spa{
     font-size: 1.5rem;
     color: rgb(0, 0, 0);
-    padding-bottom : 10px
+    padding-bottom : 10px;
+    margin-top: 18px;
+    font-weight: 100;
 }
 .l5 p{
-    font-size: 1.3rem;
+    font-size: 15px;
     color: rgb(0, 0, 0);
 }
 .line{
@@ -195,13 +207,15 @@ main{
     position: absolute;
     top: 10%;
     left: 15.8%;
+    margin-top: 16px;
+    margin-left: 8px;
 }
 .l6{
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-top: 1vw;
+    margin-top: 35px;
 }
 .logo1{
     height: 100%;
