@@ -70,5 +70,14 @@ html,body{
     margin-top: 8px;
 }
 
+.s-head{
+    color: rgb(242, 142, 65);
+    margin-left: 48px;
+    margin-top: 30px;
+}
+
+.m-head{
+    margin-left: 42px;
+}
 
 
