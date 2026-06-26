@@ -70,37 +70,5 @@ html,body{
     margin-top: 8px;
 }
 
-.left{
-    margin-top: 20px;
-    font-size: 13px;
-    margin-left: 50px;
-    margin-top: 20px;
-}
 
-.l-head{
-    margin-left: 12px;
-    margin-top: 13px;
-    font-weight: 500;
-    color: rgb(242, 142, 65);
-}
-
-.sub-head{
-    color: rgb(242, 142, 65);
-}
-
-.l-mid{
-    margin-left: 8px;
-    font-size: 18px;
-}
-
-.middle{
-    background-color: pink;
-    width: 50%;
-    height: 200px;
-    margin-left: 320px;
-    margin-top: -204px;
-    object-fit: cover;
-    align-items: center;
-    background-image: url('assets/mainjacket.png');
-}
 
