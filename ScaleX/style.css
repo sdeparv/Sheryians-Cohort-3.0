@@ -57,7 +57,9 @@ html,body{
     margin-left: 150px;
 }
 
-.opt{
-    display: flex;
-    gap: 200;
-
+.one{
+    width: 3%;
+    background-color: rgb(18, 18, 18);
+    padding-left: 8px;
+    margin-left: 20px;
+}
