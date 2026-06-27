@@ -102,8 +102,51 @@ html,body{
 }
 
 .card1{
-    width: 310px;
+    width: 350px;
     background-color: rgb(20, 20, 20);
     height: 310px;
+    margin-top: 25px;
+    margin-left: 80px;
+    border-radius: 20px;
+}
+
+.box1{
+    width: 350px;
+    height: 175px;
+    background-color: aqua;
+    border-radius: 20px;
+    
+}
+
+.card2{
+    width: 350px;
+    background-color: rgb(20, 20, 20);
+    height: 310px;
+    margin-left: 530px;
+    margin-top: -310px;
+    border-radius: 20px;
+}
+
+.box2{
+    width: 350px;
+    height: 175px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.card3{
+    width: 350px;
+    background-color: rgb(20, 20, 20);
+    height: 310px;
+    margin-left: 950px;
+    margin-top: -310px;
+    border-radius: 20px;
+}
+
+.box3{
+    width: 350px;
+    height: 175px;
+    background-color: aqua;
+    border-radius: 20px;
 }
 
