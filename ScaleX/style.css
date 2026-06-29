@@ -11,4 +11,38 @@ html,body{
    background : rgb(0, 0, 0);
 }
 
+.logo{
+    margin-left: 45px;
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
 
+.logo-name{
+    margin-top: 10px;
+    font-size: 23px;
+    margin-left: -11px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: -28px;
+}
+
+.nav>h3{
+    font-weight: 100;
+}
+
+.btn{
+    margin-left: 1203px;
+    margin-top: -33px;
+    width: 130px;
+    padding-left: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(18, 18, 18);
+    border-radius: 8px;
+}
