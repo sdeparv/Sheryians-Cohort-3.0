@@ -46,3 +46,24 @@ html,body{
     background-color: rgb(18, 18, 18);
     border-radius: 8px;
 }
+
+.main-heading{
+    font-size: 70px;
+    margin-left: 80px;
+    margin-top: 15px;
+    font-family: 'Montserrat';
+    width: 2150px;
+}
+
+.tabs{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    justify-content: center;
+}
+
+.all{
+    width: 20px;
+    background-color: aqua;
+    padding-top
+}
